@@ -9,6 +9,8 @@ The report was built on Microsoft Power BI with one Excel CSV database, detailed
 
 The full report can be visualized [here](https://app.powerbi.com/links/YDAdRxqOJ-?ctid=2101ad2c-9e83-4758-9e17-e2096775b49a&pbi_source=linkShare)
 
+The PBIX file can be downloaded on this [repository](Video_Game_Sales_Report.pbix).
+
 ## Skills and concepts demonstrated
 - Microsoft Power Query: Data cleaning, data typing, pivot/unpivot tables.
 - Microsoft Power BI: Bookmarks, Selection pane, Tooltips, Buttons, Page navigation, Graphic visuals and tables, Filters.
